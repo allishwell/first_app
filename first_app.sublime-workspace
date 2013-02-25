@@ -1,0 +1,285 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"remove",
+				"remove_action"
+			],
+			[
+				"ph",
+				"php"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": ".git/config",
+			"settings":
+			{
+				"buffer_size": 216,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 150.0,
+		"selected_items":
+		[
+			[
+				"Snippet: ",
+				"Snippet: html"
+			],
+			[
+				"",
+				"File: Close All"
+			]
+		],
+		"width": 528.0
+	},
+	"console":
+	{
+		"height": 112.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/Ready state/ruby/rails_project/first_app/Gemfile",
+		"/D/Ready state/ruby/rails_project/first_app/.gitignore",
+		"/C/Users/Logu/Desktop/my_contact_details.txt",
+		"/C/Users/Logu/test.txt",
+		"/C/Users/Logu/AppData/Local/Temp/fz3temp-1/index.php",
+		"/I/learn/hoxiao/httpdocs/gag/include/config.php",
+		"/D/Ready state/xampp/htdocs/wordpress/onetwotenllc/wp-content/themes/onetwotenllc/footer.php",
+		"/D/Ready state/xampp/htdocs/wordpress/onetwotenllc/wp-content/themes/onetwotenllc/functions.php",
+		"/D/Ready state/xampp/htdocs/wordpress/onetwotenllc/wp-content/themes/onetwotenllc/home.php",
+		"/D/Ready state/xampp/htdocs/wordpress/onetwotenllc/wp-content/themes/onetwotenllc/style.css",
+		"/D/Ready state/xampp/htdocs/wordpress/onetwotenllc/wp-content/themes/onetwotenllc/header.php",
+		"/D/Ready state/xampp/htdocs/wordpress/onetwotenllc/wp-content/themes/onetwotenllc/page_landing.php",
+		"/I/learn/hoxiao/httpdocs/gag/index.php",
+		"/I/learn/hoxiao/.htaccess",
+		"/I/learn/hoxiao/httpdocs/gag/trending.php",
+		"/I/learn/hoxiao/httpdocs/gag/vote.php",
+		"/I/learn/hoxiao/httpdocs/gag/libraries/SConfig.php",
+		"/D/Ready state/xampp/htdocs/wordpress/onetwotenllc/wp-content/themes/genesis/lib/shortcodes/footer.php",
+		"/D/Ready state/xampp/htdocs/wordpress/onetwotenllc/wp-content/themes/genesis/lib/structure/footer.php",
+		"/D/Ready state/xampp/htdocs/wordpress/onetwotenllc/wp-content/themes/genesis/lib/functions/deprecated.php",
+		"/C/Users/Logu/AppData/Roaming/Sublime Text 2/Packages/User/Default (Windows).sublime-keymap",
+		"/D/Ready state/xampp/htdocs/wordpress/onetwotenllc/wp-content/themes/genesis/lib/structure/header.php",
+		"/D/Ready state/xampp/htdocs/wordpress/onetwotenllc/wp-content/themes/genesis/lib/framework.php",
+		"/D/Ready state/xampp/htdocs/wordpress/onetwotenllc/wp-content/themes/genesis/lib/functions/layout.php",
+		"/D/Ready state/xampp/htdocs/wordpress/onetwotenllc/wp-content/themes/genesis/header.php",
+		"/I/learn/leadm/lead-magz-child/functions.php",
+		"/D/Ready state/xampp/htdocs/wordpress/onetwotenllc/wp-content/themes/genesis/lib/structure/menu.php",
+		"/I/learn/leadm/lead-magz-child/home.php",
+		"/D/Ready state/xampp/htdocs/wordpress/onetwotenllc/wp-content/themes/genesis/style.css",
+		"/C/Users/Logu/AppData/Roaming/Sublime Text 2/Packages/User/singleQuote.sublime-macro",
+		"/C/Users/Logu/AppData/Roaming/Sublime Text 2/Packages/User/semiColon.sublime-macro",
+		"/C/Users/Logu/AppData/Roaming/Sublime Text 2/Packages/soda-theme/README.md",
+		"/C/Users/Logu/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/C/Users/Logu/AppData/Local/Temp/fz3temp-1/functions.php",
+		"/I/learn/leadm/theme3/live/functions.php",
+		"/I/learn/leadm/theme2/lead-magz-child-two/functions.php",
+		"/C/Users/Logu/AppData/Roaming/Sublime Text 2/Settings/Auto Save Session.sublime_session",
+		"/D/Ready state/xampp/htdocs/wordpress/test/wp-content/plugins/options-for-super-admin/main.php",
+		"/D/Ready state/xampp/htdocs/wordpress/onetwotenllc/wp-content/themes/onetwotenllc/screenshot.png",
+		"/C/My Web Sites/northpacificpropertymanagement/www.northpacificpropertymanagement.com/wp-content/themes/outreach/style.css",
+		"/C/My Web Sites/northpacificpropertymanagement/www.northpacificpropertymanagement.com/wp-content/themes/outreach/wp-properties1a90.css",
+		"/C/My Web Sites/northpacificpropertymanagement/www.northpacificpropertymanagement.com/wp-content/themes/outreach/images/phone_address.html",
+		"/D/Ready state/xampp/htdocs/wordpress/onetwotenllc/wp-content/themes/onetwotenllc/images/phone_address.html",
+		"/D/Ready state/xampp/htdocs/wordpress/onetwotenllc/wp-content/themes/onetwotenllc/languages/outreach.pot",
+		"/D/Ready state/xampp/htdocs/wordpress/onetwotenllc/wp-content/themes/onetwotenllc/xml/outreach.xml",
+		"/D/Ready state/xampp/htdocs/wordpress/onetwotenllc/wp-content/themes/outreach/style.css",
+		"/D/Ready state/xampp/htdocs/wordpress/onetwotenllc/wp-content/themes/onetwotenllc/README.txt",
+		"/C/Users/Logu/AppData/Roaming/Sublime Text 2/Packages/User/Minifier.sublime-settings",
+		"/C/My Web Sites/northpacificpropertymanagement/www.northpacificpropertymanagement.com/index.html",
+		"/C/Users/Logu/AppData/Roaming/Sublime Text 2/Packages/User/HTML.sublime-settings",
+		"/C/Users/Logu/AppData/Roaming/Sublime Text 2/Installed Packages/BracketHighlighter-master/readme.md",
+		"/C/Users/Logu/AppData/Roaming/Sublime Text 2/Installed Packages/DetectSyntax-master/is_rails_file.py",
+		"/C/Users/Logu/AppData/Roaming/Sublime Text 2/Installed Packages/DetectSyntax-master/DetectSyntax.sublime-settings",
+		"/D/Ready state/xampp/htdocs/php/detectmobilebrowser.js",
+		"/D/Ready state/xampp/htdocs/php/autoResize.php",
+		"/C/Users/Logu/AppData/Roaming/Sublime Text 2/Packages/User/Plain text.sublime-settings"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"D:\\Ready state\\xampp\\htdocs\\wordpress\\onetwotenllc\\wp-content\\themes",
+			"D:\\Ready state\\xampp\\htdocs\\wordpress\\onetwotenllc\\",
+			"D:\\Ready state\\xampp\\htdocs\\wordpress\\onetwotenllc\\wp-content\\",
+			"D:\\Ready state\\xampp\\htdocs\\wordpress\\onetwotenllc\\wp-content\\themes"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"#footer-widgeted",
+			"	\n",
+			"genesis_register_sidebar( array(\n	'id'				=> 'sub-footer-right',\n	'name'			=> __( 'Sub Footer Right', 'onetwotenllc' ),\n	'description'	=> __( 'This is the sub footer right section.', 'onetwotenllc' )\n) );",
+			"genesis_footer",
+			"remove",
+			"remoce",
+			"re",
+			"genesis_footer_widget_areas",
+			"footer-1",
+			"footer 1",
+			"id=\"footer\"",
+			"genesis_after_content_sidebar_wrap",
+			"home-sections",
+			"id=\"home-sections\"",
+			"home-sec",
+			"home-sections",
+			"outreach",
+			"id=\"header\"",
+			"function genesis_header",
+			"id=\"content-sidebar-wrap\"",
+			"function genesis_structural_wrap",
+			"id=\"inner\"",
+			"outreach",
+			"nav",
+			"genesis_after_header",
+			"id=\"nav\"",
+			"nav",
+			"},\n",
+			"header",
+			"header-full-width",
+			"}\n",
+			"user",
+			"sub",
+			"su",
+			"Outreach",
+			"3342",
+			"33 42"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"onetwotenllc"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": ".git/config",
+					"settings":
+					{
+						"buffer_size": 216,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 39.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 94.0
+	},
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 231.0,
+	"status_bar_visible": true
+}
